@@ -1,2 +1,5 @@
 # image-captioner-app
-An app capable of captioning images
+An application capable of captioning images.
+This project started as a part of [madewithml](https://madewithml.com/) initiative
+
+
